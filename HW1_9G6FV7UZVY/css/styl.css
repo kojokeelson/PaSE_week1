@@ -1,0 +1,28 @@
+*{
+    border: grey; 
+
+}
+div{
+    padding: 30px;
+    background-color: rgb(228, 222, 222);
+}
+input{
+    width: 100%;
+    color:rgb(206, 197, 197) ;
+}
+
+textarea{
+    width: 100%;
+    color:rgb(206, 197, 197);
+}
+select{
+    width: 100%;
+
+}
+button{
+    background-color: rgb(68, 163, 68);
+    border-radius: 5px;
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 12px;
+} 
